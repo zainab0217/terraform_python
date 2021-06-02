@@ -1,2 +1,3 @@
 launched RDS & EC2 instances on the top of terraform
-automated it using python script
+
+Also launched Wordpress on it using python script
